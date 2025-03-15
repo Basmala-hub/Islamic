@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362535472116",
+    "project_id": "fir-auth-b44a5",
+    "storage_bucket": "fir-auth-b44a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362535472116:android:40f7dc21a32a48e3eb87a1",
+        "android_client_info": {
+          "package_name": "com.example.islamic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTuTgGrdfMpakhCfTFfIRuh271G2Aupc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
