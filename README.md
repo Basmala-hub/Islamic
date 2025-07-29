@@ -1,16 +1,29 @@
-# islamic
+📱 Islamic App
 
-A new Flutter project.
+A mobile Islamic app built with Flutter that offers a beautiful, simple interface for daily Muslim needs.
+It includes Quran reading (text and audio), tasbeeh (ذِكر) tracking, daily tasks, and real-time prayer times using an external API.
+🌟 Features
 
-## Getting Started
+    📖 Read and listen to the Quran
 
-This project is a starting point for a Flutter application.
+    📿 Tasbeeh with saved counts
 
-A few resources to get you started if this is your first Flutter project:
+    ✅ Task assignment and tracking
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    🕋 Prayer time integration from external API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    📚 Save Surah, Ayah, and progress in local database
+
+🛠️ Tech Stack
+
+    Flutter & Dart
+
+    State Management: Cubit
+
+    Firebase
+
+    SQLite (Local DB)
+
+    External API for prayer times
+
+    MVC Pattern
