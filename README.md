@@ -71,12 +71,21 @@ It combines offline functionality with online services, ensuring accessibility a
 ## 📸 Screenshots
 
 ---
+### Auth 
+<p align="center">
+  <img src="screenshots/splash.jpeg" width="250"/>
+  <img src="screenshots/onboarding.jpeg" width="250"/>
+  <img src="screenshots/login.jpeg" width="250"/>
+  <img src="screenshots/verfiy.jpeg" width="250"/>
+  <img src="screenshots/ensure.jpeg" width="250"/>
+</p>
 
 ### 📖 Quran Module
 
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE/quran_1.png" width="250"/>
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE/quran_2.png" width="250"/>
+  <img src="screenshots/home.jpeg" width="250"/>
+  <img src="screenshots/surah.jpeg" width="250"/>
+  <img src="screenshots/save.jpeg" width="250"/>
 </p>
 
 ---
@@ -84,7 +93,7 @@ It combines offline functionality with online services, ensuring accessibility a
 ### 📿 Tasbeeh Counter
 
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE/tasbeeh_1.png" width="250"/>
+  <img src="screenshots/spah.jpeg" width="250"/>
 </p>
 
 ---
@@ -92,7 +101,7 @@ It combines offline functionality with online services, ensuring accessibility a
 ### 🕋 Prayer Times
 
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE/prayer_1.png" width="250"/>
+  <img src="screenshots/wakt.jpeg" width="250"/>
 </p>
 
 ---
@@ -100,8 +109,8 @@ It combines offline functionality with online services, ensuring accessibility a
 ### ✅ Tasks System
 
 <p align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE/tasks_1.png" width="250"/>
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE/tasks_2.png" width="250"/>
+  <img src="screenshots/tasks.jpeg" width="250"/>
+  <img src="screenshots/tasks.jpeg" width="250"/>
 </p>
 
 ---
