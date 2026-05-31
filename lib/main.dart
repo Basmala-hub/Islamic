@@ -2,15 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'manager/cubit.dart';
-import 'network/api_service.dart';
 import 'screens/carousel_page.dart';
 import 'screens/check password.dart';
 import 'screens/data of surah.dart';
 import 'screens/home screen.dart';
 import 'screens/login screen.dart';
-import 'screens/new tasks.dart';
 import 'screens/password forget.dart';
-import 'screens/tasbah.dart';
 import 'screens/time of salah.dart';
 import 'screens/whole service.dart';
 import 'screens/whole surah.dart';
